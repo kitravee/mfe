@@ -1,2 +1,2 @@
 import('./bootstrap.js');
-console.log('test');
+console.log('test2');
